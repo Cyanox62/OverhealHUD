@@ -5,7 +5,7 @@ namespace OverhealHUD
 	[PluginDetails(
 	author = "Cyanox",
 	name = "Overheal HUD",
-	description = "Informs a user of how much health they have over their maximum health when damaged.",
+	description = "Informs a user of how much health they have left if their health is over their maximum health when damaged.",
 	id = "cyan.ohud",
 	version = "1.0.0",
 	SmodMajor = 3,
